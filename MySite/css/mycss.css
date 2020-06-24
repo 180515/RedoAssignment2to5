@@ -1,0 +1,27 @@
+@charset "UTF-8";
+body {
+    background-image: url(../images/BackgroundMysite.jpg);
+	background-size: cover; 
+}
+
+h1{ 
+	font-family: 'Raleway', sans-serif; 
+	font-size: 50px;
+	background-color:aquamarine;
+	
+	
+}
+
+.picture {
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size: 20px; 
+	border-style: dotted;
+	border-color:aquamarine; 
+	
+	
+}
+
+#backgrounded{
+	background-image: url("../images/BackgroundMysite.jpg") 
+	
+}
